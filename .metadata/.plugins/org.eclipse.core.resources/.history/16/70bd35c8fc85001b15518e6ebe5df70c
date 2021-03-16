@@ -1,0 +1,8 @@
+package com.algaworks.osworks.api.model;
+
+public class OrdemServicoInput {
+
+		private String descricao;
+		private BigDecimal preco;
+		private ClienteI
+}
